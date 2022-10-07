@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Погода</string>
+
+    <string name="city_name_hint">Название города</string>
+
+    <string name="button_next">Далее</string>
+
+    <string name="city_name">Ульяновск</string>
+
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="thursday">ЧТ</string>
+    <string name="friday">ПТ</string>
+    <string name="saturday">СБ</string>
+    <string name="sunday">ВС</string>
+    <string name="monday">ПН</string>
+
+    <string name="windy">Ветрено</string>
+
+    <string name="degrees">30°C</string>
+</resources>
